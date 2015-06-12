@@ -29,7 +29,7 @@ class Striker < Player
 end
 
 my_CB=CB.new
-my_CB.set_name='Godin'
+my_CB.set_name='Gimenez'
 CB_name=my_CB.get_name
 
 my_striker=Striker.new
