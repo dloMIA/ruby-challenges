@@ -1,0 +1,3 @@
+
+ 
+puts "Always 0"
